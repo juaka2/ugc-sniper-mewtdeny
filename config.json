@@ -1,0 +1,14 @@
+{
+    "DEBUG": false,
+    "AUTHENTICATION": {
+        "COOKIES": [""]
+    },
+    "BUY_DEBOUNCE": 1,
+    "WATCHER": [13603964192],
+    "WEBHOOK": "",
+    "DISCORD": {
+        "ENABLE": false,
+        "TOKEN": "",
+        "AUTHORIZED_IDS": ["123", "123"]
+    }
+}
